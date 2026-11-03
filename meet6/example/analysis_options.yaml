@@ -1,0 +1,7 @@
+include: package:flutter_lints/flutter.yaml
+
+#
+linter:
+  rules:
+    # Disable the rule that requires a trailing comma in collection literals.
+    avoid_print: false
